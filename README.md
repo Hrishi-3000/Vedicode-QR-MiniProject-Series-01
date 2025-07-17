@@ -1,4 +1,4 @@
-# 🔮 Vedicode - Divine QR Generator
+# 🔮 Vedicode - Divine QR Generator - MiniProject #2
 
 *A beautiful fusion of Hindu mythology and modern technology that transforms URLs/text into sacred QR codes*
 
